@@ -3874,7 +3874,7 @@
                         </child>
                         <child>
                           <object class="GtkButton" id="layoutrefreshbutton">
-                            <property name="label">gtk-save</property>
+                            <property name="label">gtk-refresh</property>
                             <property name="use-action-appearance">False</property>
                             <property name="visible">True</property>
                             <property name="can-focus">True</property>
